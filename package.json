@@ -2,7 +2,7 @@
   "name": "react_1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mrwhiteered.github.io/kursach/.",
+  "homepage": "https://mrwhiteered.github.io/kursovaiy/.",
   "dependencies": {
     "-": "^0.0.1",
     "@brainhubeu/react-carousel": "^1.19.26",
