@@ -1,0 +1,107 @@
+{
+    "Header": {
+
+        "title": "Secure Access Service Edge (SASE)",
+        "paragraph": ""
+    },
+    "About": {
+        "paragraph": "",
+        "Why": [
+            "Аналитики Gartner рассматривают модель SASE как образ  будущей модели безопасного создания сетей, к которой стремятся предприятия.﻿ В настоящее время это еще не реализовано ни одним поставщиком. Сегодня модель SASE лучше всего представлена конвергенцией SD-WAN с облачным управлением и облачными решениями обеспечения безопасности."
+        ],
+        "Why2": [
+            "Переход к модели SASE будет постепенным, поскольку ИТ-специалистам требуется переосмыслить способы подключения удаленных сотрудников к необходимым им распределенным информационным ресурсам. Также, вероятно, будет расти спрос на модели снабжения «как услуга», которые предлагают более гибкие возможности."
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-wordpress",
+            "name": "SD-WAN",
+            "text": "SD-WAN — это облачная, наложенная архитектура WAN, которая предоставляет структурные элементы для облачной трансформации на предприятиях. SD-WAN помогает обеспечить прогнозируемое взаимодействие с пользователями приложений и предоставляет бесшовную многооблачную архитектуру, одновременно обеспечивая надежную, лучшую в своем классе систему безопасности."
+        },
+        {
+            "icon": "fa fa-cart-arrow-down",
+            "name": "Безопасность облачной среды",
+            "text": "Безопасность облачной среды — это набор технологий и приложений, которые доставляются из облака для защиты от угроз и обеспечения соблюдения политик взаимодействия с пользователями, данными и приложениями. Она помогает улучшить управление безопасностью, распространяя средства управления на устройства, удаленных пользователей и распределенные местоположения в любом месте за считанные минуты."
+        },
+        {
+            "icon": "fa fa-cloud-download",
+            "name": "Сеть с нулевым доверием",
+            "text": "Во время доступа к сети с нулевым доверием проверяются удостоверения пользователей и устанавливается отношение доверия с устройством, прежде чем предоставить им доступ к авторизованным приложениям. Это помогает организациям предотвращать несанкционированный доступ, сдерживать нарушения и ограничивать горизонтальное перемещение злоумышленников по свой сети."
+        }
+       
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [ 
+        {
+            "img": "img/team/04.jpg",
+            "name": "Котик!",
+            "job": "Deputy leader"
+        }
+    ],
+    "Contact": {
+        "address": "Moscow city , near the Telman ",
+        "phone": "+7 999 999 99 99",
+        "email": "belyaevred@mail.ru",
+        "vk1": "https://vk.com/n3zzy",
+        "vk2": "https://vk.com/clusterfuckk",
+        "vk3": "https://vk.com/sturm_und_ruhe"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Что такое SASE",
+            "text": "Модель Secure Access Service Edge (SASE) — это сетевая архитектура, сочетающая возможности VPN и SD-WAN с облачными функциями обеспечения безопасности, такими как безопасные веб-шлюзы, брокеры безопасного доступа к облачным сервисам, брандмауэры и доступ к сети с нулевым уровнем доверия. Эти функции предоставляются как услуга поставщиком SASE из облачной инфраструктуры."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Что предопределяет внедрение SASE?",
+            "text": "С цифровой трансформацией предприятий безопасность перемещается в облачную инфраструктуру. Возникает потребность в конвергентных сервисах для уменьшения сложности, повышения скорости и гибкости, для чего создаются многооблачные сети и организуется защита новой архитектуры с поддержкой SD-WAN."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Какие преимущества дает модель SASE?",
+            "text": "Модель SASE объединяет в рамках единого интегрированного облачного сервиса многочисленные сетевые функции и функции обеспечения безопасности, которые традиционно предоставляются в виде разрозненных точечных решений. Консолидация с SASE дает предприятиям следующие возможности:"
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "",
+            "text": [ "Уменьшение расходов и уровня сложности. ", 
+            "Обеспеч﻿ение централизованной оркестрации и оптимизация приложений в реальном времени. ", 
+            "Безопасный беспрепятственный доступ пользователей. ",  
+            "Более безопасный удаленный и мобильный доступ. ",
+             "Ограничение доступа на основе идентификатора пользователя, устройства и приложения. ", 
+             "Повышение безопасности благодаря применению согласованной политики. ", 
+             "Повышение эффективности работы персонала по поддержке сети и обеспечению безопасности с помощью централизованного управления. "
+            ] }
+    ]
+}
