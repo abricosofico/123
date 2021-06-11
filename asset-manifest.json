@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/kursach/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/kursach/static/js/main.891d6447.chunk.js",
+    "main.js.map": "/kursach/static/js/main.891d6447.chunk.js.map",
+    "runtime-main.js": "/kursach/static/js/runtime-main.1011d3db.js",
+    "runtime-main.js.map": "/kursach/static/js/runtime-main.1011d3db.js.map",
+    "static/css/2.208af3a8.chunk.css": "/kursach/static/css/2.208af3a8.chunk.css",
+    "static/js/2.851cc29d.chunk.js": "/kursach/static/js/2.851cc29d.chunk.js",
+    "static/js/2.851cc29d.chunk.js.map": "/kursach/static/js/2.851cc29d.chunk.js.map",
+    "static/js/3.28ad31de.chunk.js": "/kursach/static/js/3.28ad31de.chunk.js",
+    "static/js/3.28ad31de.chunk.js.map": "/kursach/static/js/3.28ad31de.chunk.js.map",
+    "index.html": "/kursach/index.html",
+    "static/css/2.208af3a8.chunk.css.map": "/kursach/static/css/2.208af3a8.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/kursach/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.851cc29d.chunk.js.LICENSE.txt": "/kursach/static/js/2.851cc29d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1011d3db.js",
+    "static/css/2.208af3a8.chunk.css",
+    "static/js/2.851cc29d.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.891d6447.chunk.js"
+  ]
+}
